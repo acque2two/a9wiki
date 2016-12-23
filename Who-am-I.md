@@ -36,3 +36,20 @@
 |2015年12月18日|応用情報技術者試験 合格|
 |2016年3月30日|工事担任者資格者試験 DD第三種 資格者証 交付|
 |2016年12月05日|CCENT(Cisco Certified Entry Networking Technician) 合格|
+
+### 取得した検定/資格
+* 日商PC検定試験
+    * 文章作成 3級
+    * データ活用 3級
+* パソコン検定試験(P検)
+* 情報処理技術者試験
+    * ITパスポート
+    * 基本情報技術者試験
+    * 応用情報技術者試験
+* 工事担任者
+    * DD3種3
+* ベンダー試験
+    * Cisco
+        * CCENT (Cisco Certified Entry Networking Technician)
+    * LPI-Japan
+        * （予定）LPIC Lv.1 (101試験合格済)
