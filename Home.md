@@ -9,3 +9,6 @@ and written by Markdown.
 これは`@acque.2two`の運営するプライベートWikiです。  
 既定の言語は日本語です。  
 Markdownで記述されています。
+
+## 私
+[Who am i](/Who-am-i)
