@@ -11,7 +11,7 @@ and written by Markdown.
 Markdownで記述されています。
 
 ## 技術系
-* [Knowledges](/Knowledges)
+* [Knowledges](/Technical/Knowledges)
 
 ## 私
 [Who am i](/Who-am-i)
