@@ -1,9 +1,9 @@
 # Linux/Network
 ## L3
-`ip addr`
-`ip addr show dev enp0s25`
-`ip addr add dev enp0s25 192.168.1.2/24`
-`ip addr del dev enp0s25 192.168.1.2/24`
+* `ip addr`
+* `ip addr show dev enp0s25`
+* `ip addr add dev enp0s25 192.168.1.2/24`
+* `ip addr del dev enp0s25 192.168.1.2/24`
 
 ### IPを確認する
 `ip address show [dev enp0s25] [master virbr0] [type veth] [up]`
