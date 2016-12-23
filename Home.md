@@ -10,5 +10,7 @@ and written by Markdown.
 既定の言語は日本語です。  
 Markdownで記述されています。
 
+## 技術系
+* [Knowledges](/Knowledges)
 ## 私
 [Who am i](/Who-am-i)
