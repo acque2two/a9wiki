@@ -1,9 +1,9 @@
 # My Knowledges
 
 ## Sublink
-* [Linux](/knowledge/Linux)
-* [Shells](/knowledge/Middleware)
-* [Middleware](/knowledge/Middleware)
-* [Programming](/knowledge/Programming)
-* [Infrastructure](/knowledge/Infrastructure)
-* [Security](/knowledge/Security)
+* [Linux](/Knowledges/Linux)
+* [Shells](/Knowledges/Middleware)
+* [Middleware](/Knowledges/Middleware)
+* [Programming](/Knowledges/Programming)
+* [Infrastructure](/Knowledges/Infrastructure)
+* [Security](/Knowledges/Security)
