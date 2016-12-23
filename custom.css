@@ -1,4 +1,4 @@
 h1 {
     border-left: solid 0.1em rgba(139,195,74 ,1);
-    padding-left: 0.3em;
+    padding-left: 0.3em !important;
 }
