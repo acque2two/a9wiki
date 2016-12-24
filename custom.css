@@ -19,9 +19,33 @@
     vertical-align: middle;
     padding: 0;
     height: auto;
-    font-size:0.8em;
+    width: 100%;
+    position: absolute;
+    left: 0;
 }
 
 #head h1 {
     font-size:2em;
+}
+
+#head ul li {
+    margin-bottom: 0;
+}
+
+.btn:hover, .btn:visited {
+    color: white;
+    text-decoration: underline;
+}
+.btn:link {
+    color: #4183c4;
+    text-decoration: none;
+}
+
+#wiki-body {
+    position: relative;
+    top:3em;
+}
+
+.action-page-history{
+    display: none !important;
 }
