@@ -6,7 +6,7 @@ Primary language is Japanese.
 and written by Markdown.  
 
 ## これは何？
-これは`@acque.2two`の運営するプライベートWikiです。  
+これは`@acque.2two`のプライベートWikiです。  閲覧だけはパブリックです。  
 既定の言語は日本語です。  
 Markdownで記述されています。
 
