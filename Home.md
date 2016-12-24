@@ -14,5 +14,5 @@ Markdownで記述されています。
 * [Knowledges](/Technical/Knowledges)
 
 ## 私
-[Who am i](/Who-am-i)
-[Github](https://github.com/acque2two)
+* [Who am i](/Who-am-i)
+* [Github](https://github.com/acque2two)
