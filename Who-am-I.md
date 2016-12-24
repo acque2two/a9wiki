@@ -119,7 +119,7 @@
 ### PC
 |T|自作PC|Thinkpad X220|dynabook R73(学校支給)|EeePC 1001HA|Raspberry Pi 2 Type B|
 |--:|:--|:--|:--|:--|:--|
-|CPU|Core i5 3570K Down Voltaged to -0.016V and Over Clocked to 4.07 GHz|Core i5 2520M vPro|Core i5 4210M|Atom N270|ARMv7|
+|CPU|Core i5 3570K up to 4.07 GHz|Core i5 2520M vPro|Core i5 4210M|Atom N270|ARMv7|
 |RAM|16GB|12GB|4GB|1GB|1GB|
 |Pri.Stor|120GB SSD|128GB SSD|250GB HDD|160GB HDD|500GB HDD|
 |Sec.Stor|2TB HDD|500GB HDD|None|None|4GB SD|
