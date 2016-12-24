@@ -15,4 +15,5 @@ Markdownで記述されています。
 
 ## 私
 * [Who am i](/Who-am-i)
+* [Twitter](https://twitter.com/_Abstruct_AcQ_)
 * [Github](https://github.com/acque2two)
