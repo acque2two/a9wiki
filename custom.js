@@ -1,11 +1,13 @@
 $(function(){
     $('head link:last').after('<link rel="stylesheet" href="/uploads/bootstrap.min.css">');
+    
     var script = document.createElement("script");
     script.src = "/uploads/bootstrap.min.js";
     document.getElementsByTagName('head')[0].appendChild(script);
     script = document.createElement("script");
     script.src = "/uploads/mermaid.min.js";
     document.getElementsByTagName('head')[0].appendChild(script);
+    
     $('head script:last').after('<script>mermaid.initialize({startOnLoad:true});</script>');
     
     
