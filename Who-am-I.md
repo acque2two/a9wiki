@@ -6,6 +6,54 @@
 * 冗長化・ユーザ認証・クラスタリング系に興味がある
 
 ## `acque.2two`のくわしい説明
+### 基礎情報
+* 氏名
+    * 新留 一穂
+* よみ
+    * にいどめ かずほ
+* 生年月日
+    * 1996/10/22
+* 出身
+    * 鹿児島県鹿児島市
+* 育ち
+    * 大分県大分市
+* 実家
+    * 東北地方
+* 現住所
+    * 東京都八王子市
+* 所属
+    * 日本工学院八王子専門学校 ITスペシャリスト科 9期生 セキュリティ専攻 ( 2年 )
+* Twitter
+    * `@_Abstruct_AcQ_`
+* Facebook
+    * `acque.2two`
+* PC
+    * 自作PC
+        * Core i5 3570K Down Voltaged to -0.016V and Over Clocked to 4.07 GHz
+        * 16GB RAM
+        * 120GB SSD
+        * 2TB HDD
+        * Intel HD 4000 ( Radeon HD7770 )
+        * Windows Server 2012 R2 Datacenter
+    * Thinkpad X220
+        * Core i5 2520M vPro
+        * 12GB RAM
+        * 128GB SSD ( Added )
+        * 500GB HDD ( Replaced )
+        * ArchLinux
+            * with ZFS
+    * Toshiba dynabook R73 (学校支給)
+        * Core i5 4210M
+        * 4GB RAM
+        * 250GB HDD ( Replaced )
+        * Windows 10 Home
+    * ASUS Eee PC 1001HA
+        * Atom N270
+        * 1GB RAM
+        * 160GB HDD
+        * ArchLinux
+        * Gentoo Linux
+
 ### 歴史
 | 日時 | 内容 |
 |:--|:--|
@@ -53,3 +101,43 @@
         * CCENT (Cisco Certified Entry Networking Technician)
     * LPI-Japan
         * （予定）LPIC Lv.1 (101試験合格済)
+* その他
+    * 計算技術検定 2級
+    * J検 3級
+    * B検 3級
+    * J検 なんか3つあったやつ
+
+### Like/Hate
+* Like
+    * IT
+        * Linux / Unix
+            * High Availiability
+            * Authentication / Authorization
+        * Programming
+            * Python
+                * Bottle
+                * Flask
+            * C++
+                * Qt
+        * Networking
+            * Virtualization Technology
+        * Security
+            * CTF
+                * not Binary
+        * Embedded
+            * Logic (Can't coding)
+    * Music
+        * Vocaloid
+        * Rock
+        * Techno
+    * Misc
+        * Karaoke
+        * Alcohol
+        * Tobacco
+* Hate
+    * IT
+        * Windows
+        * Security
+            * CTF
+                * Binary only
+
