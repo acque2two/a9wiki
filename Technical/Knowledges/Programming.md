@@ -1,4 +1,4 @@
 # Programming
 ## Sublink
-* [Python](Python)
-* [C++](Cpp)
+* [Python](Programming/Python)
+* [C++](Programming/Cpp)
