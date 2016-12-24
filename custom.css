@@ -12,3 +12,16 @@
     border-left: solid 0.1em rgba(139,195,74 ,1);
     padding-left: 0.1em !important;
 }
+
+#head {
+    margin: 0 !important;
+    padding: 0 !important;
+    vertical-align: middle;
+    padding: 0;
+    height: auto;
+    font-size:0.8em;
+}
+
+#head h1 {
+    font-size:2em;
+}
