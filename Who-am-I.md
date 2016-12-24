@@ -27,16 +27,7 @@
     * `@_Abstruct_AcQ_`
 * Facebook
     * `acque.2two`
-* PC
-|\|自作PC|Thinkpad X220|dynabook R73(学校支給)|EeePC 1001HA|Raspberry Pi 2 Type B|
-|--:|:--|:--|:--|:--|
-|CPU|Core i5 3570K Down Voltaged to -0.016V and Over Clocked to 4.07 GHz|Core i5 2520M vPro|Core i5 4210M|Atom N270|ARMv7|
-|RAM|16GB|12GB|4GB|1GB|1GB|
-|Pri.Stor|120GB SSD|128GB SSD|250GB HDD|160GB HDD|500GB HDD|
-|Sec.Stor|2TB HDD|500GB HDD|---|---|4GB SD|
-|Graphics|Onboard(Radeon HD 7770)|Onboard|Onboard|Onboard|Onboard|
-|OS|Windows Server 2012 R2 Datacenter|ArchLinux|Windows 10 Home|ArchLinux/Gentoo Linux|ArchLinux|
-|OS Conf.|Testing server|with ZFS|Simply|very |Local Server|
+
 
 ### 歴史
 | 日時 | 内容 |
@@ -124,4 +115,15 @@
         * Security
             * CTF
                 * Binary only
+
+### PC
+|T|自作PC|Thinkpad X220|dynabook R73(学校支給)|EeePC 1001HA|Raspberry Pi 2 Type B|
+|--:|:--|:--|:--|:--|:--|
+|CPU|Core i5 3570K Down Voltaged to -0.016V and Over Clocked to 4.07 GHz|Core i5 2520M vPro|Core i5 4210M|Atom N270|ARMv7|
+|RAM|16GB|12GB|4GB|1GB|1GB|
+|Pri.Stor|120GB SSD|128GB SSD|250GB HDD|160GB HDD|500GB HDD|
+|Sec.Stor|2TB HDD|500GB HDD|None|None|4GB SD|
+|Graphics|Onboard(Radeon HD 7770)|Onboard|Onboard|Onboard|Onboard|
+|OS|Windows Server 2012 R2 Datacenter|ArchLinux|Windows 10 Home|ArchLinux/Gentoo Linux|ArchLinux|
+|OS Conf.|Testing server|with ZFS|Simply|very Lightly|Local Server|
 
