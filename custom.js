@@ -26,4 +26,5 @@ $(function(){
     $('#footer .actions .minibutton a').addClass('btn btn-primary');
     $('.minibutton').removeClass('minibutton');
     
+    
 });

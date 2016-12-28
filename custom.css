@@ -68,3 +68,16 @@ body {
 h1, h2, h3, h4, h5, h6, h7, h8 {
     color: #FFF !important;
 }
+
+code {
+    color: #76FF03   !important;
+    border: 1px solid #444 !important;
+    background-color: #080808 !important;
+    padding: 0.05em 1em !important;
+    margin: 0.2em 0;
+    width: auto;
+    display: inline-block;
+    overflow-x: auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
