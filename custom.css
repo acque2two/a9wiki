@@ -1,16 +1,16 @@
-.markdown-body h1 {
+#wiki-content h1 {
     border-left: solid 0.3em #2E7D32;
     border-bottom: solid 0.1em #616161;
     padding-left: 0.3em !important;
 }
 
-.markdown-body h2 {
+#wiki-content h2 {
     border-left: solid 0.15em #2E7D32;
     border-bottom: solid 0.1em #616161;
     padding-left: 0.15em !important;
 }
 
-.markdown-body h3 {
+#wiki-content h3 {
     border-left: solid 0.1em #2E7D32;
     border-bottom: solid 0.1em #616161;
     padding-left: 0.1em !important;
@@ -48,9 +48,9 @@
     text-decoration: none;
 }
 
-#wiki-body {
+#wiki-content {
     position: relative;
-    top:3em;
+    top:4em;
 }
 
 .action-page-history{
@@ -84,20 +84,20 @@ code {
     vertical-align: middle;
 }
 
-.markdown-body table tr th, .markdown-body table tr td {
+#wiki-content table tr th, #wiki-content table tr td {
     border: 1px solid #666;
     text-align: none;
-    margin: 0;
+    margin: 0; 
     padding: 6px 13px;
 }
 
-.markdown-body table tr {
+#wiki-content table tr {
     border-top: 1px solid #222;
     background-color: #2f2f2f;
     margin: 0;
     padding: 0;
 }
 
-.markdown-body table tr:nth-child(2n) {
+#wiki-content table tr:nth-child(2n) {
     background-color: #333;
 }
