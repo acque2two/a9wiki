@@ -15,5 +15,9 @@ Markdownで記述されています。
 
 ## 私
 * [Who am i](/Who-am-i)
+
+## Links
 * [Twitter](https://twitter.com/_Abstruct_AcQ_)
 * [Github](https://github.com/acque2two)
+* サークル ( WCDI )
+  * [wcdi.tech] (https://wcdi.tech/)
