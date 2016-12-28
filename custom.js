@@ -26,5 +26,14 @@ $(function(){
     $('#footer .actions .minibutton a').addClass('btn btn-primary');
     $('.minibutton').removeClass('minibutton');
     
+    var toc = $( "<div/>", {
+                "id": "toc_list"});
+
+    $.each($(".anchor"), function(i, val) {
+        console.log(i + ': ' + val.id);
+        toc.append("<p class='"+val.parentNode.tagName+"'><a href='" + val.href + "'>"+val.parentNode.textContent+"</a></p>");
+    });
+    
+    $('#wiki-body').append(toc);
     
 });
