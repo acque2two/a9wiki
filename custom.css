@@ -1,15 +1,18 @@
 .markdown-body h1 {
-    border-left: solid 0.3em rgba(139,195,74 ,1);
+    border-left: solid 0.3em #2E7D32;
+    border-bottom: solid 0.1em #616161;
     padding-left: 0.3em !important;
 }
 
 .markdown-body h2 {
-    border-left: solid 0.15em rgba(139,195,74 ,1);
+    border-left: solid 0.15em #2E7D32;
+    border-bottom: solid 0.1em #616161;
     padding-left: 0.15em !important;
 }
 
 .markdown-body h3 {
-    border-left: solid 0.1em rgba(139,195,74 ,1);
+    border-left: solid 0.1em #2E7D32;
+    border-bottom: solid 0.1em #616161;
     padding-left: 0.1em !important;
 }
 
@@ -22,6 +25,9 @@
     width: 100%;
     position: absolute;
     left: 0;
+    color: white;
+    background-color: #263238;
+    border: 0;
 }
 
 #head h1 {
@@ -48,4 +54,17 @@
 
 .action-page-history{
     display: none !important;
+}
+
+.action-fileview{
+    display: none !important;
+}
+
+body {
+    background-color: #212121 !important;
+    color: #E0E0E0 !important;
+}
+
+h1, h2, h3, h4, h5, h6, h7, h8 {
+    color: #FFF !important;
 }
