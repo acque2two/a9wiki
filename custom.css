@@ -68,7 +68,11 @@ body {
 
 h1, h2, h3, h4, h5, h6, h7, h8 {
     color: #FFF !important;
-    text-shadow: 1px 1px 2px #000;
+    text-shadow: 1px 1px 3px #000;
+}
+
+h1, h2, h3 {
+    box-shadow: 0px -5px 5px -5px #000;
 }
 
 code {
@@ -100,4 +104,40 @@ code {
 
 #wiki-content table tr:nth-child(2n) {
     background-color: #333;
+}
+
+#sidebar-content{
+    padding: 0;
+}
+
+@media all and (min-width: 940px) {
+    #wiki-wrapper {
+        max-width: 1100px !important;
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+}
+
+.has-sidebar #wiki-body {
+    width: 72%;
+}
+
+.toc, #wiki-sidebar{
+    background:#444;
+    color: #CCC;
+    border: 0;
+}
+
+#gollum-editor {
+    background: none;
+    border: none;
+}
+
+#gollum-editor .singleline input {
+    background: #333;
+    color: #fff;
+}
+
+#gollum-editor textarea {
+    background: #222;
 }
