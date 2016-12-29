@@ -20,4 +20,4 @@ Markdownで記述されています。
 * [Twitter](https://twitter.com/_Abstruct_AcQ_)
 * [Github](https://github.com/acque2two)
 * サークル ( WCDI )
-  * [wcdi.tech] (https://wcdi.tech/)
+  - [wcdi.tech] (https://wcdi.tech/)
